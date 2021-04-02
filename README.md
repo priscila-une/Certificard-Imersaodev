@@ -12,3 +12,5 @@
 - 🏆 Tabela de Classificação
 - 🃏 Supertrunfo
 - 🌐 Certificard
+
+Link do [Certificard](https://priscila-une.github.io/Certificard-Imersaodev/ "Certificard")
